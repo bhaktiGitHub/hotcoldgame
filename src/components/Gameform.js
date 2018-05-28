@@ -13,7 +13,7 @@ class Gameform extends Component{
 		this.state ={
 			counter :0,
 			feedback: 'Guess the Number!',
-      		randomNumber : Math.round(Math.random()*100)+1
+      randomNumber : Math.round(Math.random()*100)+1
 		}
 	}
 
@@ -23,7 +23,8 @@ class Gameform extends Component{
       counter :0,
       feedback: 'Make your guess!',
       auralStatus: '',
-      correctAnswer: Math.floor(Math.random() * 100) + 1
+      randomNumber : Math.round(Math.random()*100)+1
+      
     });
   }
 	onClick(e)
