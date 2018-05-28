@@ -1,0 +1,30 @@
+
+
+.Gameform{
+	background-color: #2b2a78;
+	width:75%;
+	height:250px;
+	color:white;
+	margin:auto;
+	margin-top: 0;
+	
+}
+.GameForm{
+	background-color: #2b2a78;
+}
+
+.EnterGuessBtn{
+	width:150px;
+	height:30px;
+	font-size: 20px;
+	font-weight:bold;
+	border-radius: 7px;
+	padding-right: 10px;
+}
+.EnterGuessInput{
+	width:200px;
+	height:40px;
+	border-radius: 7px;
+	font-size: 18px;
+	font-weight:bold;
+}

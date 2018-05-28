@@ -1,0 +1,35 @@
+div{
+	background-color: navy;
+	height:100px;
+}
+.btn{
+	background-color: navy;
+	width:150px;
+	height:40px;
+	color:white;
+}
+
+.GameInfo{
+float:left;
+}
+
+.RestartGameBtn{
+float:right;
+}
+.what{
+	float:left;
+}
+.new{
+	float:right;
+}
+
+ul{
+	list-style: none;
+
+}
+
+ul li a{
+	font-size: 20px;
+	color:white;
+	text-decoration: none;
+}
